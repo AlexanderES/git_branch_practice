@@ -4,7 +4,7 @@ These are a few of my favorite things:
 - Warm weather
 - Raindrops on roses
 - Whiskers on cute turtles or puppies
- Bright copper kettles
+- Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
 - Cloudy weather
